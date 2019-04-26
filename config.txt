@@ -1,0 +1,6 @@
+owner=445057618839470090
+prefix=sa
+game=Break | saplay
+stayinchannel=true
+songinstatus=false
+token=NTcxMjM3NTYxMDM3NzUwMjc0.XMLMKg.quFKXj2ZLEDFxEFYV4AkcmRMGG8
