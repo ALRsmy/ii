@@ -1,5 +1,5 @@
 owner=445057618839470090
-prefix=Pu
+prefix=s
 game=  
 stayinchannel=true
 songinstatus=false
