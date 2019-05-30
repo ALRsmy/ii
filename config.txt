@@ -1,5 +1,5 @@
 owner=445057618839470090
-prefix=s
+prefix=E
 game=  
 stayinchannel=true
 songinstatus=false
