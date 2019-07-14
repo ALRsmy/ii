@@ -1,6 +1,0 @@
-owner=588108191120883714
-prefix=gr
-game=  
-stayinchannel=true
-songinstatus=false
-token=NTk0Mzc1MDUwNzM2Njk3MzQ0.XRbhCg.BR29tEjmPRQIaO1Gh3urYEzaFz0
